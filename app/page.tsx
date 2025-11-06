@@ -4,6 +4,7 @@ import NavBar from "@/components/common/NavBar";
 import WhyUs from "@/components/why/WhyUs";
 import How from "@/components/how/How";
 import TrustUs from "@/components/trust/TrustUs";
+import Features from '@/components/features/Features'
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
       <TrustUs/>
       <WhyUs />
       <How/>
+      <Features/>
     </div>
   );
 }

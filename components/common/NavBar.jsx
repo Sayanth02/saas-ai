@@ -7,7 +7,7 @@ const NavBar = () => {
   const [isOpen, setIsOpen] = useState(false);
   return (
     <header className="w-full flex justify-end md:justify-center md:items-center p-3 md:fixed top-10 left-0 z-50">
-      <nav className="bg-background/40 backdrop-blur-2xl rounded-lg p-1 text-sm text-primary">
+      <nav className="bg-gray-100 backdrop-blur-2xl rounded-lg p-1 text-sm text-primary">
         {/* desktop menu */}
         <ul className="hidden md:flex justify-center items-center gap-6">
           <li className="bg-btn p-1 rounded-lg">
