@@ -12,14 +12,14 @@ const WhyUs = () => {
       title: "Sarah Chen",
       designation: " - Senior Product Manager @ Google",
       description:
-        "TalkFusion helped me land my dream role at Google. The AI career coach understood my goals and created a personalized roadmap that actually worked.",
+        "Elevra helped me land my dream role at Google. The AI career coach understood my goals and created a personalized roadmap that actually worked.",
       image: "/images/sarah.png",
     },
     {
       title: "Marcus Rodriguez",
       designation: " - Founder @ TechStart",
       description:
-        "I've tried countless productivity apps. TalkFusion is the first one that adapts to how I actually work. It's like having a personal executive coach 24/7.",
+        "I've tried countless productivity apps. Elevra is the first one that adapts to how I actually work. It's like having a personal executive coach 24/7.",
       image: "/images/marcus.png",
     },
     {
@@ -63,12 +63,12 @@ const WhyUs = () => {
         Benefits
       </button>
       <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold">
-        Why Talks Fusion Works for You
+        Why Elevra Works for You
       </h1>
       <div className="flex flex-col md:flex-row justify-between space-y-4 items-center">
         <p className="text-sm text-primary w-3/4 font-semibold">
           From startup founders to Fortune 500 leaders, professionals across
-          industries rely on TalkFusion to unlock their full potential. Our
+          industries rely on Elevra to unlock their full potential. Our
           AI-powered career and productivity platform provides personalized
           coaching, actionable insights, and real results — helping you work
           smarter, grow faster, and achieve your goals with confidence.
